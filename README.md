@@ -8,8 +8,8 @@ This was a fun way to practice working with vector layers and creating geospatia
 
 [View the code here](Cambridge_Zones_Trees.ipynb)
 
-[View the Street trees data here](https://www.cambridgema.gov/GIS/gisdatadictionary/Environmental/ENVIRONMENTAL_StreetTrees![image](https://github.com/user-attachments/assets/2577e753-f69f-467d-a414-18b704d9c86e))
+[View the Street trees data here]([https://www.cambridgema.gov/GIS/gisdatadictionary/Environmental/ENVIRONMENTAL_StreetTrees![image](https://github.com/user-attachments/assets/2577e753-f69f-467d-a414-18b704d9c86e)](https://www.cambridgema.gov/GIS/gisdatadictionary/Environmental/ENVIRONMENTAL_StreetTrees))
 
-[View the zones data here](https://www.cambridgema.gov/GIS/gisdatadictionary/CDD/CDD_ZoningDistricts![image](https://github.com/user-attachments/assets/8c78f77a-b328-4a95-a2b1-276f2cccc0ed))
+[View the zones data here]([https://www.cambridgema.gov/GIS/gisdatadictionary/CDD/CDD_ZoningDistricts![image](https://github.com/user-attachments/assets/8c78f77a-b328-4a95-a2b1-276f2cccc0ed)](https://www.cambridgema.gov/GIS/gisdatadictionary/CDD/CDD_ZoningDistricts))
 
 ![image](https://github.com/user-attachments/assets/e8fc942b-1d7f-4563-9bf5-bfe109570609)
